@@ -126,5 +126,5 @@ You can also open an issue in this repository for public discussions.
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x100?text=Happy+Learning!" alt="Happy Learning" width="600"/>
+  <img src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200" alt="Happy Learning" width="600"/>
 </p>
