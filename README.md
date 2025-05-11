@@ -22,16 +22,14 @@ Complete-Repository-of-Machine-Learning/
 └── Unsupervised_Learning/
 ```
 
-<p align="center">
-  <img src="https://via.placeholder.com/500x300?text=Repository+Structure" alt="Repository Structure" width="500"/>
-</p>
+
 
 ## 🧠 Supervised Learning
 
 Supervised learning is a paradigm where the algorithm learns from labeled data, making predictions or decisions based on past examples.
 
 <p align="center">
-  <img src="https://via.placeholder.com/500x300?text=Supervised+Learning" alt="Supervised Learning" width="500"/>
+  <img src="https://cdn.prod.website-files.com/6408a35ee5a5ec2f39a4afc9/65369dc97c1f4315efcd76ec_U.png" alt="Supervised Learning" width="500"/>
 </p>
 
 ### 📊 Classification
@@ -48,7 +46,7 @@ Classification algorithms predict discrete categorical outcomes or class labels.
 - Neural Networks
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x250?text=Classification" alt="Classification Visualization" width="400"/>
+  <img src="https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/cdp/cf/ul/g/50/f9/ICLH_Diagram_Batch_03_27-RandomForest.component.xl.ts=1744706868656.png/content/adobe-cms/us/en/think/topics/classification-machine-learning/jcr:content/root/table_of_contents/body-article-8/image_518613278" alt="Classification Visualization" width="400"/>
 </p>
 
 ### 📈 Regression
@@ -65,7 +63,7 @@ Regression algorithms predict continuous numerical values.
 - Support Vector Regression (SVR)
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x250?text=Regression" alt="Regression Visualization" width="400"/>
+  <img src="https://www.wolframcloud.com/obj/resourcesystem/images/85b/85bc91ff-57f4-45d4-bf0a-24124007f8b6/4c12de5734badfec.png" alt="Regression Visualization" width="400"/>
 </p>
 
 ## 🔍 Unsupervised Learning
@@ -73,7 +71,7 @@ Regression algorithms predict continuous numerical values.
 Unsupervised learning discovers patterns in unlabeled data without predefined outputs.
 
 <p align="center">
-  <img src="https://via.placeholder.com/500x300?text=Unsupervised+Learning" alt="Unsupervised Learning" width="500"/>
+  <img src="https://api.wandb.ai/files/mostafaibrahim17/images/projects/37042936/befe5d9f.png" alt="Unsupervised Learning" width="500"/>
 </p>
 
 **Algorithms included:**
@@ -96,9 +94,7 @@ To get started with this repository:
 
 3. Follow the README instructions in each specific folder for implementation details.
 
-<p align="center">
-  <img src="https://via.placeholder.com/400x250?text=Getting+Started" alt="Getting Started" width="400"/>
-</p>
+
 
 ## 📋 Prerequisites
 
@@ -119,7 +115,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-If you have any questions or feedback, please open an issue or contact the repository owner.
+If you have any questions or feedback, please feel free to reach out:
+
+- **Name:** Muhammad Anas Raheem
+- **Email:** anasraheem48@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/anasraheem/](https://www.linkedin.com/in/anasraheem/)
+
+You can also open an issue in this repository for public discussions.
 
 ---
 
