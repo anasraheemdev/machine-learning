@@ -126,5 +126,5 @@ You can also open an issue in this repository for public discussions.
 ---
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200" alt="Happy Learning" width="600"/>
+  <img src="https://anubudh.com/wp-content/uploads/2021/10/34554-technology.gif" alt="Happy Learning" width="600"/>
 </p>
