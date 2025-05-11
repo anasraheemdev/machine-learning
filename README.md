@@ -7,7 +7,7 @@
 Welcome to the Complete Repository of Machine Learning! This repository serves as a comprehensive resource for understanding and implementing various machine learning algorithms and techniques. Whether you're a beginner or an experienced practitioner, this repository provides structured information, code examples, and explanations to help you navigate the world of machine learning.
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x300?text=ML+Workflow" alt="ML Workflow" width="600"/>
+  <img src="https://images.datacamp.com/image/upload/v1664812812/Model_Evaluation_8176f0dd81.png" alt="ML Workflow" width="600"/>
 </p>
 
 ## 🗂️ Repository Structure
