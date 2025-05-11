@@ -89,7 +89,7 @@ To get started with this repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Complete-Repository-of-Machine-Learning.git
+   git clone https://github.com/anasraheemdev/machine-learning
    ```
 
 2. Navigate to the algorithm or technique you're interested in.
